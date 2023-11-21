@@ -1,7 +1,8 @@
 # 8-K-means-Clustering
 1. [K-means Clustering Theory and Reading](#schema1)
 2. [KMeans Clustering Documentation Example](#schema2)
-
+3. [Clustering Example Code Along](#schema3)
+4. [Clustering Consulting Project](#schema4)
 
 
 <hr>
@@ -134,9 +135,19 @@ Silhouette with squared euclidean distance = 0.9997530305375207
 ```
 
 
+<hr>
 
+<a name="schema3"></a>
 
+## 3. Clustering Example Code Along
+Clustering Code Along.ipynb
 
+<hr>
+
+<a name="schema4"></a>
+
+## 4. Clustering Consulting Project
+Clustering_Consulting_Project.ipynb
 
 
 
